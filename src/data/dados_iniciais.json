@@ -1,0 +1,209 @@
+{
+  "categorias": [
+    {
+      "titulo": "Cozinhando com Art",
+      "link": "/",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Cozinhando com Art",
+        "url": "https://www.youtube.com/playlist?list=PLSnU-1qb4XzK1ZSh1x9b9G7hVghpnDhrI"
+      },
+      "videos": [
+        {
+          "titulo": "Vidro de Açúcar",
+          "url": "https://www.youtube.com/watch?v=gI4jbUmHPYc"
+        },
+        {
+          "titulo": "Cristalização",
+          "url": "https://www.youtube.com/watch?v=BxkaGR9CtFA"
+        },
+        {
+          "titulo": "Ovo Elástico",
+          "url": "https://www.youtube.com/watch?v=yO60OubAeac"
+        },
+        {
+          "titulo": "Sorvete",
+          "url": "https://www.youtube.com/watch?v=LqC4mSDBk6Q"
+        },
+        {
+          "titulo": "Assar Batata ao Sol",
+          "url": "https://www.youtube.com/watch?v=y26MzE85XNI"
+        },
+        {
+          "titulo": "Tinta",
+          "url": "https://www.youtube.com/watch?v=QRJNB5RR1s4"
+        },
+        {
+          "titulo": "Tinta com Chá",
+          "url": "https://www.youtube.com/watch?v=gzRkPuTCoyI"
+        }
+      ]
+    },
+    {
+      "titulo": "Corpo Humano",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Corpo Humano",
+        "url": "https://www.youtube.com/playlist?list=PLSnU-1qb4XzI0vU6J15IdGtZJfTCOe1UG"
+      },
+      "videos": [
+        {
+          "titulo": "Pulmões",
+          "url": "https://www.youtube.com/watch?v=k00fOqrpkl0"
+        },
+        {
+          "titulo": "Coração",
+          "url": "https://www.youtube.com/watch?v=T1PTdzlWjhk"
+        },
+        {
+          "titulo": "Ossos",
+          "url": "https://www.youtube.com/watch?v=3mW5heeJRZ8"
+        },
+        {
+          "titulo": "Dentes e Cáries",
+          "url": "https://www.youtube.com/watch?v=-kI9nfjdyzA"
+        },
+        {
+          "titulo": "Espinhas",
+          "url": "https://www.youtube.com/watch?v=u-PIJPuWK5U"
+        },
+        {
+          "titulo": "Lágrimas",
+          "url": " https://www.youtube.com/watch?v=ToN63x48rr4"
+        }
+      ]
+    },
+    {
+      "titulo": "Eletricidade",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Eletricidade",
+        "url": "https://www.youtube.com/playlist?list=PLSnU-1qb4XzK48QlvLpvesz_QrxBu_i_g"
+      },
+      "videos": [
+        {
+          "titulo": "Eletricidade",
+          "url": "https://www.youtube.com/watch?v=wsujuN0s_Nk"
+        },
+        {
+          "titulo": "Eletricidade Estática",
+          "url": "https://www.youtube.com/watch?v=ggwu6g1G2UQ"
+        },
+        {
+          "titulo": "Motores Elétricos",
+          "url": "https://www.youtube.com/watch?v=eimzhO7lH3c"
+        },
+        {
+          "titulo": "Pilhas",
+          "url": "https://www.youtube.com/watch?v=8x6QnmMep6M"
+        },
+        {
+          "titulo": "Energia Eletromagnética",
+          "url": "https://www.youtube.com/watch?v=UYbdXvKsslk"
+        }
+      ]
+    },
+    {
+      "titulo": "Fatos",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Fatos",
+        "url": "https://www.youtube.com/playlist?list=PLSnU-1qb4XzK0P2nlacECJB1cF6jOH7Ky"
+      },
+      "videos": [
+        {
+          "titulo": "Somente Abelhas Fêmeas Picam",
+          "url": "https://www.youtube.com/watch?v=4A6KFoTRgfY"
+        },
+        {
+          "titulo": "Melancias eram usadas como capacetes",
+          "url": "https://www.youtube.com/watch?v=aQQ68jGiASI"
+        },
+        {
+          "titulo": "Voar Até o SOl",
+          "url": "https://www.youtube.com/watch?v=roUTEuSn2DE"
+        },
+        {
+          "titulo": "Cachorro Quente nos EUA",
+          "url": "https://www.youtube.com/watch?v=p99-c_-hv5o"
+        },
+        {
+          "titulo": "Impulsos Elétricos",
+          "url": "https://www.youtube.com/watch?v=8a315-7Xz1s"
+        },
+        {
+          "titulo": "Estrela do Mar",
+          "url": "https://www.youtube.com/watch?v=PAOpPgvIZ-A"
+        },
+        {
+          "titulo": "Telescópio Potente",
+          "url": "https://www.youtube.com/watch?v=4Ou-enIumVE"
+        }
+      ]
+    },
+    {
+      "titulo": "Beakmania",
+      "cor": "red",
+      "link_extra": {
+        "text": "Beakmania",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Chocalho da Cascavel",
+          "url": "https://www.youtube.com/watch?v=EwVjIP4nqAY"
+        },
+        {
+          "titulo": "Tempreatura em Plutão",
+          "url": "https://www.youtube.com/watch?v=uz6GQDlcW7s"
+        },
+        {
+          "titulo": "O que produz a caspa",
+          "url": "https://www.youtube.com/watch?v=qNdBN5thK1M"
+        },
+        {
+          "titulo": "Por que Caranguejo anda de lado",
+          "url": "https://www.youtube.com/watch?v=eKAiHjlCwu0"
+        },
+        {
+          "titulo": "Como semáforos sabem a hora de trocar de cor",
+          "url": "https://www.youtube.com/watch?v=dLKuzfwmWFQ"
+        },
+        {
+          "titulo": "Por que os cabelos ficam grisalhos",
+          "url": "https://www.youtube.com/watch?v=XT4EEC-ZKoM"
+        }
+      ]
+    },
+    {
+      "titulo": "Inventores",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Inventores",
+        "url": "https://www.youtube.com/playlist?list=PLSnU-1qb4XzJwhE-djIG6OHOElKSGxTJT"
+      },
+      "videos": [
+        {
+          "titulo": "Quem foi Daniel Bernoulli???",
+          "url": "https://www.youtube.com/watch?v=zocyFaAgmD4"
+        },
+        {
+          "titulo": "Alexander Grahambell",
+          "url": "https://www.youtube.com/watch?v=ICn1rLh2pds"
+        },
+        {
+          "titulo": "Ben Franklin",
+          "url": "https://www.youtube.com/watch?v=FLR-JPszo84"
+        },
+        {
+          "titulo": "Thomas Edison",
+          "url": "https://www.youtube.com/watch?v=L2TUARkx3TY"
+        },
+        {
+          "titulo": "Nicolau Copérnico",
+          "url": "https://www.youtube.com/watch?v=yORj0_gIZwI"
+        }
+      ]
+    }
+  ]
+}
