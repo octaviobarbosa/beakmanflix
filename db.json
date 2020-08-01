@@ -2,7 +2,7 @@
   "categorias": [
     {
       "id": 1,
-      "git rm yarn.lock": "Cozinhando com Art",
+      "titulo": "Cozinhando com Art",
       "link": "/",
       "cor": "#6BD1FF",
       "link_extra": {
