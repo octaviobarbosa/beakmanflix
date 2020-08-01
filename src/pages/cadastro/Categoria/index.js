@@ -35,7 +35,8 @@ function CadastroCategoria() {
         .then(async (respostaDoServer) => {
           if (respostaDoServer.ok) {
             const resposta = await respostaDoServer.json();
-            setCategorias([...resposta]);
+            // setCategorias([...resposta]);
+            setCategorias(resposta);
             return;
           }
           throw new Error('Não foi possível pegar os dados');
@@ -94,7 +95,7 @@ function CadastroCategoria() {
       )}
 
       <ul>
-        {categorias.map((categoria) => <li key={`${categoria.nome}`}>{categoria.nome}</li>)}
+        {categorias.map((categoria) => <li key={`${categoria.id}`}>{categoria.titulo}</li>)}
       </ul>
 
       <Link to="/">Ir para home</Link>
