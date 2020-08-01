@@ -5,7 +5,12 @@ function FormField({ label, type, name, value, onChange }) {
     <div>
       <label>
         {label}:
-        <input type={type} value={value} name={name} onChange={onChange} />
+        {type === "text" ? (
+          <input type={type} value={value} name={name} onChange={onChange} />
+        ) : null}
+        {type === "textarea" ? (
+          <textarea value={value} name={name} onChange={onChange} />
+        ) : null}
       </label>
     </div>
   );
