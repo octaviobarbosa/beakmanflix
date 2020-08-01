@@ -1,7 +1,8 @@
 {
   "categorias": [
     {
-      "titulo": "Cozinhando com Art",
+      "id": 1,
+      "git rm yarn.lock": "Cozinhando com Art",
       "link": "/",
       "cor": "#6BD1FF",
       "link_extra": {
@@ -10,36 +11,44 @@
       },
       "videos": [
         {
+          "id": 1,
           "titulo": "Vidro de Açúcar",
           "url": "https://www.youtube.com/watch?v=gI4jbUmHPYc"
         },
         {
+          "id": 2,
           "titulo": "Cristalização",
           "url": "https://www.youtube.com/watch?v=BxkaGR9CtFA"
         },
         {
+          "id": 3,
           "titulo": "Ovo Elástico",
           "url": "https://www.youtube.com/watch?v=yO60OubAeac"
         },
         {
+          "id": 4,
           "titulo": "Sorvete",
           "url": "https://www.youtube.com/watch?v=LqC4mSDBk6Q"
         },
         {
+          "id": 5,
           "titulo": "Assar Batata ao Sol",
           "url": "https://www.youtube.com/watch?v=y26MzE85XNI"
         },
         {
+          "id": 6,
           "titulo": "Tinta",
           "url": "https://www.youtube.com/watch?v=QRJNB5RR1s4"
         },
         {
+          "id": 7,
           "titulo": "Tinta com Chá",
           "url": "https://www.youtube.com/watch?v=gzRkPuTCoyI"
         }
       ]
     },
     {
+      "id": 2,
       "titulo": "Corpo Humano",
       "cor": "#00C86F",
       "link_extra": {
@@ -48,32 +57,39 @@
       },
       "videos": [
         {
+          "id": 1,
           "titulo": "Pulmões",
           "url": "https://www.youtube.com/watch?v=k00fOqrpkl0"
         },
         {
+          "id": 2,
           "titulo": "Coração",
           "url": "https://www.youtube.com/watch?v=T1PTdzlWjhk"
         },
         {
+          "id": 3,
           "titulo": "Ossos",
           "url": "https://www.youtube.com/watch?v=3mW5heeJRZ8"
         },
         {
+          "id": 4,
           "titulo": "Dentes e Cáries",
           "url": "https://www.youtube.com/watch?v=-kI9nfjdyzA"
         },
         {
+          "id": 5,
           "titulo": "Espinhas",
           "url": "https://www.youtube.com/watch?v=u-PIJPuWK5U"
         },
         {
+          "id": 6,
           "titulo": "Lágrimas",
           "url": " https://www.youtube.com/watch?v=ToN63x48rr4"
         }
       ]
     },
     {
+      "id": 3,
       "titulo": "Eletricidade",
       "cor": "#9cd33b",
       "link_extra": {
@@ -82,28 +98,34 @@
       },
       "videos": [
         {
+          "id": 1,
           "titulo": "Eletricidade",
           "url": "https://www.youtube.com/watch?v=wsujuN0s_Nk"
         },
         {
+          "id": 2,
           "titulo": "Eletricidade Estática",
           "url": "https://www.youtube.com/watch?v=ggwu6g1G2UQ"
         },
         {
+          "id": 3,
           "titulo": "Motores Elétricos",
           "url": "https://www.youtube.com/watch?v=eimzhO7lH3c"
         },
         {
+          "id": 4,
           "titulo": "Pilhas",
           "url": "https://www.youtube.com/watch?v=8x6QnmMep6M"
         },
         {
+          "id": 5,
           "titulo": "Energia Eletromagnética",
           "url": "https://www.youtube.com/watch?v=UYbdXvKsslk"
         }
       ]
     },
     {
+      "id": 4,
       "titulo": "Fatos",
       "cor": "orange",
       "link_extra": {
@@ -112,36 +134,44 @@
       },
       "videos": [
         {
+          "id": 1,
           "titulo": "Somente Abelhas Fêmeas Picam",
           "url": "https://www.youtube.com/watch?v=4A6KFoTRgfY"
         },
         {
+          "id": 2,
           "titulo": "Melancias eram usadas como capacetes",
           "url": "https://www.youtube.com/watch?v=aQQ68jGiASI"
         },
         {
+          "id": 3,
           "titulo": "Voar Até o SOl",
           "url": "https://www.youtube.com/watch?v=roUTEuSn2DE"
         },
         {
+          "id": 4,
           "titulo": "Cachorro Quente nos EUA",
           "url": "https://www.youtube.com/watch?v=p99-c_-hv5o"
         },
         {
+          "id": 5,
           "titulo": "Impulsos Elétricos",
           "url": "https://www.youtube.com/watch?v=8a315-7Xz1s"
         },
         {
+          "id": 6,
           "titulo": "Estrela do Mar",
           "url": "https://www.youtube.com/watch?v=PAOpPgvIZ-A"
         },
         {
+          "id": 7,
           "titulo": "Telescópio Potente",
           "url": "https://www.youtube.com/watch?v=4Ou-enIumVE"
         }
       ]
     },
     {
+      "id": 5,
       "titulo": "Beakmania",
       "cor": "red",
       "link_extra": {
@@ -150,32 +180,39 @@
       },
       "videos": [
         {
+          "id": 1,
           "titulo": "Chocalho da Cascavel",
           "url": "https://www.youtube.com/watch?v=EwVjIP4nqAY"
         },
         {
+          "id": 2,
           "titulo": "Tempreatura em Plutão",
           "url": "https://www.youtube.com/watch?v=uz6GQDlcW7s"
         },
         {
+          "id": 3,
           "titulo": "O que produz a caspa",
           "url": "https://www.youtube.com/watch?v=qNdBN5thK1M"
         },
         {
+          "id": 4,
           "titulo": "Por que Caranguejo anda de lado",
           "url": "https://www.youtube.com/watch?v=eKAiHjlCwu0"
         },
         {
+          "id": 5,
           "titulo": "Como semáforos sabem a hora de trocar de cor",
           "url": "https://www.youtube.com/watch?v=dLKuzfwmWFQ"
         },
         {
+          "id": 6,
           "titulo": "Por que os cabelos ficam grisalhos",
           "url": "https://www.youtube.com/watch?v=XT4EEC-ZKoM"
         }
       ]
     },
     {
+      "id": 6,
       "titulo": "Inventores",
       "cor": "#6b5be2",
       "link_extra": {
@@ -184,22 +221,27 @@
       },
       "videos": [
         {
+          "id": 1,
           "titulo": "Quem foi Daniel Bernoulli???",
           "url": "https://www.youtube.com/watch?v=zocyFaAgmD4"
         },
         {
+          "id": 2,
           "titulo": "Alexander Grahambell",
           "url": "https://www.youtube.com/watch?v=ICn1rLh2pds"
         },
         {
+          "id": 3,
           "titulo": "Ben Franklin",
           "url": "https://www.youtube.com/watch?v=FLR-JPszo84"
         },
         {
+          "id": 4,
           "titulo": "Thomas Edison",
           "url": "https://www.youtube.com/watch?v=L2TUARkx3TY"
         },
         {
+          "id": 6,
           "titulo": "Nicolau Copérnico",
           "url": "https://www.youtube.com/watch?v=yORj0_gIZwI"
         }
